@@ -1,1 +1,3 @@
-echo 'i am best';
+
+
+chinainfo
